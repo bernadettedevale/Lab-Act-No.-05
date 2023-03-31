@@ -1,1 +1,4 @@
 # Lab-Act-No.-05
+
+Instructions:
+Up to this point in the course you have learned how to add style to your web pages by inserting a style section using the <style> element. But what if you want to change the look of the entire website? If your entire website was built with style definitions inside each page, that would mean going back into each page individually and changing the style. Fortunately, CSS provides a means of using an external style sheet to control the presentation of a large set of web pages. With an external style sheet, if you want to change the font style (or any other style definition) across an entire site, you only have to change it in one place. At the completion of this activity: you will have created an external style sheet, and linked to it from within your web pages.
